@@ -1,3 +1,9 @@
+-- SpecialLinear.hs
+-- Simulate the special linear group SL_2(F_3).
+--
+-- Implements functions at the end of this file which calculate the elements, inverses, and conjugacy classes
+-- of elements in SL_2(F_3)
+
 import Control.Monad
 import Data.List
 
